@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/decide-for-me/static/css/main.45dcb506.chunk.css",
+    "main.js": "/decide-for-me/static/js/main.414ddf86.chunk.js",
+    "main.js.map": "/decide-for-me/static/js/main.414ddf86.chunk.js.map",
+    "runtime-main.js": "/decide-for-me/static/js/runtime-main.edb4b505.js",
+    "runtime-main.js.map": "/decide-for-me/static/js/runtime-main.edb4b505.js.map",
+    "static/css/2.764ccc25.chunk.css": "/decide-for-me/static/css/2.764ccc25.chunk.css",
+    "static/js/2.169dc0b7.chunk.js": "/decide-for-me/static/js/2.169dc0b7.chunk.js",
+    "static/js/2.169dc0b7.chunk.js.map": "/decide-for-me/static/js/2.169dc0b7.chunk.js.map",
+    "index.html": "/decide-for-me/index.html",
+    "precache-manifest.d4d4c2e3dccda915684f5b477af7eeed.js": "/decide-for-me/precache-manifest.d4d4c2e3dccda915684f5b477af7eeed.js",
+    "service-worker.js": "/decide-for-me/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/decide-for-me/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.45dcb506.chunk.css.map": "/decide-for-me/static/css/main.45dcb506.chunk.css.map",
+    "static/js/2.169dc0b7.chunk.js.LICENSE.txt": "/decide-for-me/static/js/2.169dc0b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb4b505.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.169dc0b7.chunk.js",
+    "static/css/main.45dcb506.chunk.css",
+    "static/js/main.414ddf86.chunk.js"
+  ]
+}
